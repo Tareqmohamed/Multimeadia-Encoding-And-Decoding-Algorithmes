@@ -1,7 +1,12 @@
-The Algorithmes:
+# GUI Encoding and Decoding
+
+This repository contains two Python files, GUI_Encoding.py and GUI_Decoding.py, that can encode and decode text using different encodings. These scripts were designed to be used with a GUI for easier access.
+
+
+# The Algorithms:
 > Run Length Encoding
 
-> Varible Length Encoding
+> Variable Length Encoding
 
 > Huffman
 
@@ -9,7 +14,7 @@ The Algorithmes:
 
 > LZ77
 
-> Arithmatic Encoding
+> Arithmetic Encoding
 
 > BWT
 
